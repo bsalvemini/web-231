@@ -1,2 +1,4 @@
-# web-231
-Repository for work in WEB 231
+# WEB 231 Enterprise JavaScript I
+## Contributors
+- Richard Krasso
+- Brandon Salvemini
